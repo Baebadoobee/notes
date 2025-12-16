@@ -124,4 +124,14 @@ Falar sobre monitoramento de sistema com /proc /sys
 6. Boldrito, R., & Esteve, J. (2019). GNU/Linux advanced administration.
 7. Linux Die. (n.d.-a). syslogd(8): System log daemon. Retrieved December 16, 2025, from https://linux.die.net/man/8/syslogd
 8. Linux Die. (n.d.-b). rsyslogd(8): Reliable and extended system logging daemon. Retrieved December 16, 2025, from https://linux.die.net/man/8/rsyslogd
-9. Ward, B. (2014). How Linux works: What every superuser should know.
+9. Schroder, C. (2021). Linux cookbook.
+10. Ward, B. (2014). How Linux works: What every superuser should know.
+##
+
+<p align="right"><a href="#top">back to top</a></p>
+
+### Contributors:
+
+<a href="https://github.com/Baebadoobee/postInstallScript/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Baebadoobee/postInstallScript" alt="contrib.rocks image" />
+</a>
